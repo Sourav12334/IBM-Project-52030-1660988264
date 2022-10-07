@@ -1,1 +1,20 @@
-MohameddIsmail
+
+NAME : Mohamed Ismail P.M.H
+
+ROLLNO : 410619104020
+
+EMAIL : ismailpept@gmail.com
+
+MOBILE NUMBER : 7305407914
+
+GENDER : MALE
+
+DATE OF BIRTH : 22-07-2002
+
+DEGREE : Bachelor of Engineering
+
+BRANCH : Computer Science Engineering
+
+YEAR OF PASSING : 2023
+
+COLLEGE : DHAANISH AHMED COLLEGE OF ENGINEERING
