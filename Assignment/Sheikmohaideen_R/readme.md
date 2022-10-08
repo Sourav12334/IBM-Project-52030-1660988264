@@ -1,1 +1,19 @@
-sheikmohaideen
+NAME : Sheik Mohaideen R
+
+ROLLNO : 410619104036
+
+EMAIL : sheikmohaideen2001@gmail.com
+
+MOBILE NUMBER : 9566129087
+
+GENDER : MALE
+
+DATE OF BIRTH : 20-06-2001
+
+DEGREE : Bachelor of Engineering
+
+BRANCH : Computer Science Engineering
+
+YEAR OF PASSING : 2023
+
+COLLEGE : DHAANISH AHMED COLLEGE OF ENGINEERING
